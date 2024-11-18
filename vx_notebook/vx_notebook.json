@@ -1,0 +1,15 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2024-11-18T05:28:38Z",
+    "description": "",
+    "extra_configs": {
+    },
+    "history": [
+    ],
+    "image_folder": "vx_images",
+    "name": "Binbim-Studynotes",
+    "tag_graph": "",
+    "version": 3,
+    "version_controller": "dummy.vnotex"
+}
